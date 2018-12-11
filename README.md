@@ -56,7 +56,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Created data pipeline, evaluated model.
 -	Keywords:Natural Language Processing, EDA, seaborn, matplotlib, Scikit-learn, Pandas, Numpy
 
-              ![image](https://user-images.githubusercontent.com/25867288/49819091-82dd2500-fd42-11e8-94cc-2ef291f676b8.png)
+     ![image](https://user-images.githubusercontent.com/25867288/49819091-82dd2500-fd42-11e8-94cc-2ef291f676b8.png)
 
 **Santander bank product recommendations**
 
