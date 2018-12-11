@@ -55,6 +55,8 @@ This is the repository of the projects I worked on or currently working on for s
 -	Exploratory data analysis including Text pre-processing, Vectorization.
 -	Created data pipeline, evaluated model.
 -	Keywords:Natural Language Processing, EDA, seaborn, matplotlib, Scikit-learn, Pandas, Numpy
+![image](https://user-images.githubusercontent.com/25867288/49818982-38f43f00-fd42-11e8-8246-8a6bb7e29aa5.png)
+![image](https://user-images.githubusercontent.com/25867288/49819007-4c9fa580-fd42-11e8-8f0b-0623c3d7a601.png)
 
 **Santander bank product recommendations**
 
