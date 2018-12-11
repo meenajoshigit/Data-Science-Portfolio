@@ -64,16 +64,13 @@ This is the repository of the projects I worked on or currently working on for s
 -	Normalized image, one-hot encode labels and built a convolutional layer, max pool and fully connected layer.
 -	Keywords:  CNN, image preprocessing
 
+
 **Training Smart Cab to drive(Reinforcement Learning)**
 
 -	Applied reinforcement learning techniques for a self –driving agent in a simplified world to aid it in effectively reaching its 
   destination in the allotted time.
 -	Modeled a complex control problem in terms of limited available inputs and designed a scheme to automatically learn as optimal driving 
   strategy based on rewards and penalties. 
-
-
-
-
 
 **Santander bank product recommendations**
 
