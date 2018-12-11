@@ -63,7 +63,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Train CNN on sample images and see the predictions.
 -	Normalized image, one-hot encode labels and built a convolutional layer, max pool and fully connected layer.
 -	Keywords:  CNN, image preprocessing
-
+![image](https://user-images.githubusercontent.com/25867288/49823226-2df2dc00-fd4d-11e8-871e-c70a58fb19c6.png)
 
 **Training Smart Cab to drive(Reinforcement Learning)**
 
