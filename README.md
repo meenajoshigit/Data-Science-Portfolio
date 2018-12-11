@@ -40,7 +40,16 @@ This is the repository of the projects I worked on or currently working on for s
 -	Keywords: PCA, A/B test, K-Means Clustering, Seaborn, Matplotlib, Scikit-learn
 ![image](https://user-images.githubusercontent.com/25867288/49811961-57523e80-fd32-11e8-80b3-0b72efadc0e8.png)
 
- **Santander bank product recommendations**
+**Finding donors for charity ML**
+-	Built a predictive model to check whether to reach out or not to an individual for donation for the charity.
+-	Data preprocessing (transforming skewed features, normalizing, encoding categorical features, etc).
+-	Trained and compared Random Forest, SVM and Naïve Bayes Classifier to improve model’s performance.
+-	Tuned Random Forest Classifier that resulted in a final accuracy of 86% and F1 score of 73%.
+-	Keywords: Exploratory data analysis, Model building, Model evaluation, Data visualization
+
+
+
+**Santander bank product recommendations**
 
 - Used machine learning algorithms to predict which products their existing customers will use in the next month based on their past 
   behavior and that of similar customers.
