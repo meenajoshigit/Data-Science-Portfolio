@@ -58,6 +58,23 @@ This is the repository of the projects I worked on or currently working on for s
 
      ![image](https://user-images.githubusercontent.com/25867288/49819091-82dd2500-fd42-11e8-94cc-2ef291f676b8.png)
 
+ **Image Classification using Convolutional Neural Network**
+
+-	Train CNN on sample images and see the predictions.
+-	Normalized image, one-hot encode labels and built a convolutional layer, max pool and fully connected layer.
+-	Keywords:  CNN, image preprocessing
+
+**Training Smart Cab to drive(Reinforcement Learning)**
+
+-	Applied reinforcement learning techniques for a self –driving agent in a simplified world to aid it in effectively reaching its 
+  destination in the allotted time.
+-	Modeled a complex control problem in terms of limited available inputs and designed a scheme to automatically learn as optimal driving 
+  strategy based on rewards and penalties. 
+
+
+
+
+
 **Santander bank product recommendations**
 
 - Used machine learning algorithms to predict which products their existing customers will use in the next month based on their past 
