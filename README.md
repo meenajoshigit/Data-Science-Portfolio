@@ -55,6 +55,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Exploratory data analysis including Text pre-processing, Vectorization.
 -	Created data pipeline, evaluated model.
 
+![image](https://user-images.githubusercontent.com/25867288/49818201-17925380-fd40-11e8-91cf-b0c7461aab88.png)
 
 **Santander bank product recommendations**
 
