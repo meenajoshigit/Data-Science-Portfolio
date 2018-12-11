@@ -71,6 +71,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Modeled a complex control problem in terms of limited available inputs and designed a scheme to automatically learn as optimal driving 
   strategy based on rewards and penalties. 
 - Keywords: Optimization, Reinforcement Learning, Q-Learning, Modeling
+
 **Santander bank product recommendations**
 
 - Used machine learning algorithms to predict which products their existing customers will use in the next month based on their past 
