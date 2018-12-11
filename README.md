@@ -31,7 +31,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Keywords:  data analysis, feature engineering, under sampling, oversampling, tree based models, Keras, Neural network
 ![image](https://user-images.githubusercontent.com/25867288/49809894-148e6780-fd2e-11e8-8ac7-85dbc2aca915.png)
 
- **Customer Segmentation**
+ **Identifying Customer Segments(Unsupervised Learning)**
  
 - Analyzed sales data of wholesale distributer to identify different segments of retailers.
 -	Applied PCA and Independent Component Analysis for primary intuition.
