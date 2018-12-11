@@ -46,6 +46,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Trained and compared Random Forest, SVM and Naïve Bayes Classifier to improve model’s performance.
 -	Tuned Random Forest Classifier that resulted in a final accuracy of 86% and F1 score of 73%.
 -	Keywords: Exploratory data analysis, Model building, Model evaluation, Data visualization
+![image](https://user-images.githubusercontent.com/25867288/49817347-f7fa2b80-fd3d-11e8-8855-3f8121049b98.png)
 
 
 
