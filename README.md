@@ -20,6 +20,7 @@ This is the repository of the projects I worked on or currently working on for s
 •	Analyzed the used car dataset to see the correlation between the top sold combinations.
 •	Developed and compared the predictions of important features using different models.
 •	Keywords- Linear regression, data cleaning, visualization, feature engineering, dimensionality reduction
+![image](https://user-images.githubusercontent.com/25867288/49809627-67b3ea80-fd2d-11e8-91ea-af339626a85c.png)
 
 **Credit card fraud detection**
 
