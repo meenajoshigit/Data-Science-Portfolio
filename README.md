@@ -38,6 +38,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Used K- Means clustering model to identify clusters, used cluster labels for making predictions.
 -	Applied A/B testing to improve delivery satisfaction.
 -	Keywords: PCA, A/B test, K-Means Clustering, Seaborn, Matplotlib, Scikit-learn
+![image](https://user-images.githubusercontent.com/25867288/49811961-57523e80-fd32-11e8-80b3-0b72efadc0e8.png)
 
  **Santander bank product recommendations**
 
