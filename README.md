@@ -13,6 +13,7 @@ This is the repository of the projects I worked on or currently working on for s
 - Visualized the analyzed data using seaborn.
 - Studied the affect of parameter tuning and its result in random forest classier.
 - Keywords: Pandas, seaborn, Random Forest classifier, Python
+![image](https://user-images.githubusercontent.com/25867288/49809341-a006f900-fd2c-11e8-857e-ac360a902125.png)
 
 **Predicting Sale Price of used cars**
 
