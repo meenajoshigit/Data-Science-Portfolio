@@ -55,7 +55,6 @@ This is the repository of the projects I worked on or currently working on for s
 -	Exploratory data analysis including Text pre-processing, Vectorization.
 -	Created data pipeline, evaluated model.
 -	Keywords:Natural Language Processing, EDA, seaborn, matplotlib, Scikit-learn, Pandas, Numpy
-
      ![image](https://user-images.githubusercontent.com/25867288/49819091-82dd2500-fd42-11e8-94cc-2ef291f676b8.png)
 
  **Image Classification using Convolutional Neural Network**
