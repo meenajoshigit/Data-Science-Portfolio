@@ -37,7 +37,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Applied PCA and Independent Component Analysis for primary intuition.
 -	Used K- Means clustering model to identify clusters, used cluster labels for making predictions.
 -	Applied A/B testing to improve delivery satisfaction.
--	Keywords: PCA, A/B test, K-Means Clustering, Seaborn, Matplotlib, Scikit-learn
+-	Keywords: PCA,ICA, A/B test, K-Means Clustering, Seaborn, Matplotlib, Scikit-learn, feature selection
 ![image](https://user-images.githubusercontent.com/25867288/49811961-57523e80-fd32-11e8-80b3-0b72efadc0e8.png)
 
 **Finding donors for charity ML**
@@ -46,7 +46,7 @@ This is the repository of the projects I worked on or currently working on for s
 -	Data preprocessing (transforming skewed features, normalizing, encoding categorical features, etc).
 -	Trained and compared Random Forest, SVM and Naïve Bayes Classifier to improve model’s performance.
 -	Tuned Random Forest Classifier that resulted in a final accuracy of 86% and F1 score of 73%.
--	Keywords: Exploratory data analysis, Model building, Model evaluation, Data visualization
+-	Keywords: Exploratory data analysis, Model building, Model evaluation, Data visualization, KNN, Naive Bayes, SVM, Random Forest
 ![image](https://user-images.githubusercontent.com/25867288/49817347-f7fa2b80-fd3d-11e8-8855-3f8121049b98.png)
 
 **Natural Language Processing for SMS Classification**
@@ -61,7 +61,7 @@ This is the repository of the projects I worked on or currently working on for s
 
 -	Train CNN on sample images and see the predictions.
 -	Normalized image, one-hot encode labels and built a convolutional layer, max pool and fully connected layer.
--	Keywords:  CNN, image preprocessing
+-	Keywords:  CNN, image preprocessing, Deep Learning, Tensor Flow, Real world problem solving
 ![image](https://user-images.githubusercontent.com/25867288/49823226-2df2dc00-fd4d-11e8-871e-c70a58fb19c6.png)
 
 **Training Smart Cab to drive(Reinforcement Learning)**
@@ -70,7 +70,7 @@ This is the repository of the projects I worked on or currently working on for s
   destination in the allotted time.
 -	Modeled a complex control problem in terms of limited available inputs and designed a scheme to automatically learn as optimal driving 
   strategy based on rewards and penalties. 
-
+- Keywords: Optimization, Reinforcement Learning, Q-Learning, Modeling
 **Santander bank product recommendations**
 
 - Used machine learning algorithms to predict which products their existing customers will use in the next month based on their past 
