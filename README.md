@@ -41,6 +41,7 @@ This is the repository of the projects I worked on or currently working on for s
 ![image](https://user-images.githubusercontent.com/25867288/49811961-57523e80-fd32-11e8-80b3-0b72efadc0e8.png)
 
 **Finding donors for charity ML**
+
 -	Built a predictive model to check whether to reach out or not to an individual for donation for the charity.
 -	Data preprocessing (transforming skewed features, normalizing, encoding categorical features, etc).
 -	Trained and compared Random Forest, SVM and Naïve Bayes Classifier to improve model’s performance.
@@ -48,6 +49,11 @@ This is the repository of the projects I worked on or currently working on for s
 -	Keywords: Exploratory data analysis, Model building, Model evaluation, Data visualization
 ![image](https://user-images.githubusercontent.com/25867288/49817347-f7fa2b80-fd3d-11e8-8855-3f8121049b98.png)
 
+**Natural Language Processing for SMS Classification**
+
+-	Built a classifier which could classify text SMS as ham/spam based on the content of the SMS.
+-	Exploratory data analysis including Text pre-processing, Vectorization.
+-	Created data pipeline, evaluated model.
 
 
 **Santander bank product recommendations**
